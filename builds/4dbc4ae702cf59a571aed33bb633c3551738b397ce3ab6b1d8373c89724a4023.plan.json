@@ -1,0 +1,1 @@
+{"filename": "builds/4dbc4ae702cf59a571aed33bb633c3551738b397ce3ab6b1d8373c89724a4023.zip", "runtime": "python3.8", "artifacts_dir": "builds", "build_plan": [["zip", "modules/ci-cd/files/invalidate-cloudfront.py", null]]}
